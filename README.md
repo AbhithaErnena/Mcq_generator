@@ -1,11 +1,11 @@
 # Mcq_generator
-'''
+```
 To install requirements: pip install -r requirements.txt
-'''
+```
 
-'''
+```
 git add .
-'''
+```
 
 '''
 git commit -m 'message'
